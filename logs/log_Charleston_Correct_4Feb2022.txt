@@ -1,0 +1,31 @@
+Today is before due date.
+Dates checked.
+Getting regions.
+Destination is 1, -81.64581, 38.3601648163
+Region found: Metro Valley
+starting getOptions loop
+getOptions is working on Metro Valley and 2022-06-16
+working on day 3
+our route code is: RAD
+Partner Code: RA
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\RA_RegionDay.csv
+we got a deliver by value of: Day 2
+working on day 2
+our route code is: RAD
+Partner Code: RA
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\RA_RegionDay.csv
+we got a deliver by value of: Day 1
+working on day 1
+our route code is: RACD
+Partner Code: RA
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\RA_RegionDay.csv
+we got a deliver by value of: Day 0
+working on day 0
+our route code is: 0
+Processing logistics now.
+For delivery to 312 Ohio Avenue, Charleston, West Virginia, 25302 on Wed 06-15-2022, deliver products to Refresh Appalachia no later than Wed 06-15-2022. This destination is within 5 miles of delivery route and can be delivered for normal rates. Contact them to arrange final details: John Doe; West Edge A&D Hub, 1040 Vernon Street, Huntington, WV, 25704; (555) 555-5555; email@email.com
+For delivery to 312 Ohio Avenue, Charleston, West Virginia, 25302 on Wed 06-15-2022, deliver products to Refresh Appalachia no later than Tue 06-14-2022. This destination is within 5 miles of delivery route and can be delivered for normal rates. Contact them to arrange final details: John Doe; West Edge A&D Hub, 1040 Vernon Street, Huntington, WV, 25704; (555) 555-5555; email@email.com
+For delivery to 312 Ohio Avenue, Charleston, West Virginia, 25302 on Tue 06-14-2022, deliver products to Refresh Appalachia no later than Mon 06-13-2022. This destination is within 5 miles of delivery route and can be delivered for normal rates. Contact them to arrange final details: John Doe; West Edge A&D Hub, 1040 Vernon Street, Huntington, WV, 25704; (555) 555-5555; email@email.com

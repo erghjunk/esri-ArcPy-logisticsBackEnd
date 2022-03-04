@@ -1,0 +1,21 @@
+Today is before due date.
+Dates checked.
+Getting regions.
+Destination is 1, -81.1046388, 38.0555114
+Region found: New River Gorge
+starting getOptions loop
+getOptions is working on New River Gorge and 2022-06-16
+working on day 3
+our route code is: 0
+working on day 2
+our route code is: 0
+working on day 1
+our route code is: SFCD
+Partner Code: SF
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\SF_RegionDay.csv
+we got a deliver by value of: Day 0
+working on day 0
+our route code is: 0
+Processing logistics now.
+For delivery to 103 Keller Ave, Fayetteville, West Virginia, 25840 on Tue 06-14-2022, deliver products to Sprouting Farms no later than Mon 06-13-2022. This destination is greater than 5 miles from delivery route and is likely to incur extra charges. Contact them to arrange final details: Jane Doe; Turnrow A&D Hub, 804 Industrial Park Road, Maxwelton, WV, 24901; (555) 555-5555; mailme@jumbo.com

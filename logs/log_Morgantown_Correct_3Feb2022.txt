@@ -1,0 +1,21 @@
+Today is before due date.
+Dates checked.
+Getting regions.
+Destination is 1, -79.9579303, 39.6295396
+Region found: Monongahela
+starting getOptions loop
+getOptions is working on Monongahela and 2022-06-16
+working on day 3
+our route code is: 0
+working on day 2
+our route code is: 0
+working on day 1
+our route code is: GGD
+Partner Code: GG
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\GG_RegionDay.csv
+we got a deliver by value of: Day 0
+working on day 0
+our route code is: 0
+Processing logistics now.
+For delivery to 123 Pleasant Street, Morgantown, West Virginia, 26505 on Tue 06-14-2022, deliver products to Garrett Growers no later than Mon 06-13-2022. This destination is within 5 miles of delivery route and can be delivered for normal rates. Contact them to arrange final details: Jim Deer; Garret Growers, 1916 MD Hwy Ste. A, Mt. Lake, MD; (555) 555-5555; name@place.com

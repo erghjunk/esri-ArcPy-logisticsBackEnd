@@ -1,0 +1,42 @@
+Today is before due date.
+Dates checked.
+Getting regions.
+Destination is 1, -82.5237533, 36.5404204
+Region found: ASD South
+Region found: ASD North
+Region found: ASD West Run London (2)
+Region found: ASD West Run London
+Region found: ASD West Run Louisville
+starting getOptions loop
+getOptions is working on ASD South and 2022-06-16
+working on day 3
+our route code is: 0
+working on day 2
+our route code is: 0
+working on day 1
+our route code is: ASD_SR
+Partner Code: ASD
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\ASD_RegionDay.csv
+we got a deliver by value of: Day 0
+working on day 0
+our route code is: 0
+getOptions is working on ASD North and 2022-06-16
+getOptions is working on ASD West Run London (2) and 2022-06-16
+working on day 3
+our route code is: 0
+working on day 2
+our route code is: ASD_WRa
+Partner Code: ASD
+Capacity Flag: 1
+searching table: D:\workspace\turnrow_logistics_sharing_2021\ASD_RegionDay.csv
+we got a deliver by value of: Day 1
+working on day 1
+our route code is: 0
+working on day 0
+our route code is: 0
+getOptions is working on ASD West Run London and 2022-06-16
+getOptions is working on ASD West Run Louisville and 2022-06-16
+Processing logistics now.
+For delivery to 1704 N Eastman Rd, Kingsport, Tennessee, 37664 on Tue 06-14-2022, deliver products to Appalachian Sustainable Development no later than Mon 06-13-2022. This destination is within 5 miles of delivery route and can be delivered for normal rates. Contact them to arrange final details: Jill Deal; ASD, 280 Boone Trail Road, Duffield, VA 24244; (555) 555-5555; read@read.com
+For delivery to 1704 N Eastman Rd, Kingsport, Tennessee, 37664 on Wed 06-15-2022, deliver products to Appalachian Sustainable Development no later than Tue 06-14-2022. This destination is greater than 5 miles from delivery route and is likely to incur extra charges. Contact them to arrange final details: Jill Deal; ASD, 280 Boone Trail Road, Duffield, VA 24244; (555) 555-5555; read@read.com

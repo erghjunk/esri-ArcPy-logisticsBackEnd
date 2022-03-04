@@ -1,0 +1,25 @@
+Today is before due date.
+Dates checked. Finding regions.
+Getting regions.
+Destination is 1, -79.9579303, 39.6295396
+Region found: Monongahela
+starting getOptions loop
+getOptions is working on Monongahela and 2022-06-18
+working on day 5
+our route code is: 0
+working on day 4
+our route code is: 0
+working on day 3
+our route code is: 0
+working on day 2
+our route code is: 0
+working on day 1
+our route code is: GGD
+Partner Code: GG
+Capacity Flag: 1
+searching table: GG_RegionDay
+we got a deliver by value of: Day 0
+working on day 0
+our route code is: 0
+Writing logistics now.
+{'outputFlag': 1, 'destX': '-79.9579303', 'destY': '39.6295396', 'routes': 0, 'message': {0: {'destFull': '123 Pleasant Street, Morgantown, West Virginia, 26505', 'routeCode': 'GGD', 'routeFC': 'Route_GG_Deliveries_1', 'partnerCode': 'GG', 'partnerName': 'Garrett Growers', 'aggDate': 'Mon 06-13-2022', 'delivDate': 'Tue 06-14-2022', 'distanceMessage': 'This destination is within 5 miles of delivery route and can be delivered for normal rates.', 'capacity': '', 'partnerPOC': 'Willie Lantz', 'partnerPhone': '(785) 448-6922', 'partnerEmail': 'wlantz@umd.org', 'partnerAddress': 'Garret Growers, 1916 MD Hwy Ste. A, Mt. Lake, MD'}}}
