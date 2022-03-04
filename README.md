@@ -3,7 +3,7 @@ Geoprocessing script that analyzes user input to determine all possibilities for
 
 Built on a custom data model that, frankly, needs improvement. The script accepts and address, a number and type of products, and a due date and returns a range of possiblities (if they exist) on how that product can be passed through the intersecting logistics system(s) for delivery. 
 
-To try this script live, dump all contents of this repo into a directory and uncompress logistics.gdb. Requires ArcGIS or ArcPro as well as the python package "geopy." 
+To try this script live, dump all contents of this repo into a directory and uncompress logistics.gdb. Requires ArcGIS or ArcPro as well as the python package "geopy."
 
 Live application where this GP is utlized (widget is in UR of UI): https://mapwv.gov/crc/
 
