@@ -5,6 +5,8 @@ The script accepts an address, a number and type of products, and a due date, an
 
 To try this script live, dump all contents of this repo into a directory and uncompress logistics.gdb. Requires ArcGIS or ArcPro as well as the python package "geopy."
 
+The live implementation of this tool utilizes a different (and better) geocoding service which is left out here for the purpose of hiding my API key. 
+
 Live application where this GP is utlized (widget is in UR of UI): https://mapwv.gov/crc/
 
 Associated geoprocessing service: https://appservices.wvgis.wvu.edu/arcgis/rest/services/CRC/CRCTool/GPServer/turnrow%20logistics%20sharing%20tool/
